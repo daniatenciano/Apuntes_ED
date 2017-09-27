@@ -5,7 +5,7 @@ Curso 2017-2018
 Écija (Sevilla)  
 Apuntes de Entornos de Desarrollo Tema 1  
 
-[Entornos de desarrollo](img/Logo.jpg)
+![Entornos de desarrollo](img/Logo.jpg)
 
 
 ## Contenidos del módulo
